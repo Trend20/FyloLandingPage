@@ -770,11 +770,22 @@ header>i {
         color: #fff;
         text-decoration: none;
     }
-    .icons .fab {
+    .social-icons {
         display: flex;
-        width: 100%;
-        height: auto;
+        justify-content: center;
+        align-items: center;
+        margin-top: 70px;
+    }
+    .social-icons i {
+        font-size: 1rem;
+        margin-left: 5px;
         cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border: 1px solid #fff;
+        border-radius: 50%;
     }
 }
 
@@ -1116,11 +1127,22 @@ header>i {
         color: #fff;
         text-decoration: none;
     }
-    .icons .fab {
+    .social-icons {
         display: flex;
-        width: 100%;
-        height: auto;
+        justify-content: center;
+        align-items: center;
+        margin-top: 70px;
+    }
+    .social-icons i {
+        font-size: 1rem;
+        margin-left: 5px;
         cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border: 1px solid #fff;
+        border-radius: 50%;
     }
 }
 
@@ -1460,11 +1482,22 @@ header>i {
         color: #fff;
         text-decoration: none;
     }
-    .icons .fab {
+    .social-icons {
         display: flex;
-        width: 100%;
-        height: auto;
+        justify-content: center;
+        align-items: center;
+        margin-top: 70px;
+    }
+    .social-icons i {
+        font-size: 1rem;
+        margin-left: 5px;
         cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border: 1px solid #fff;
+        border-radius: 50%;
     }
 }
 
@@ -1787,10 +1820,21 @@ header>i {
         display: flex;
         flex-direction: row;
     }
-    .icons .fab {
+    .social-icons {
         display: flex;
-        width: 100%;
-        height: auto;
+        justify-content: center;
+        align-items: center;
+        margin-top: 70px;
+    }
+    .social-icons i {
+        font-size: 1rem;
+        margin-left: 5px;
         cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border: 1px solid #fff;
+        border-radius: 50%;
     }
 }
